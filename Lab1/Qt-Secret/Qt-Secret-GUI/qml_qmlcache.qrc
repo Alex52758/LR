@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="DigitalSignaturePage.qml">DigitalSignaturePage.qml</file>
+        <file alias="EncryptDecryptPage.qml">EncryptDecryptPage.qml</file>
+        <file alias="KeysGeneratePage.qml">KeysGeneratePage.qml</file>
+        <file alias="main.qml">main.qml</file>
+        <file alias="qtquickcontrols2.conf">qtquickcontrols2.conf</file>
+        <file alias="images/cpy.png">images/cpy.png</file>
+        <file alias="modules/RowElement.qml">modules/RowElement.qml</file>
+        <file alias="modules/LoadPopup.qml">modules/LoadPopup.qml</file>
+        <file alias="modules/RsaGenModule.qml">modules/RsaGenModule.qml</file>
+        <file alias="modules/LabledText.qml">modules/LabledText.qml</file>
+        <file alias="modules/ActionButton.qml">modules/ActionButton.qml</file>
+        <file alias="images/clear.png">images/clear.png</file>
+        <file alias="modules/DoubleStateMenu.qml">modules/DoubleStateMenu.qml</file>
+    </qresource>
+</RCC>
