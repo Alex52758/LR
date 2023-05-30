@@ -1,0 +1,9 @@
+enclave {
+    from "sgx_tstdc.edl" import *;
+
+    trusted {
+        /* define ECALLs here. */
+        public void getElementByIndex([out, size=len] char* buffer, size_t len, size_t index);
+    };
+    
+};
